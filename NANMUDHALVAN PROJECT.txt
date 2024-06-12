@@ -1,0 +1,11 @@
+S.NO      PAGE URL                 DATE       TIME           PASS/FAIL      DESCRIPTION
+
+1    https://www.annauniv.edu/  06-12-2024 10:05:00 pm     PASS           Test Cases/Anna university/acodamic
+
+																		Elapsed time: 32.194s 
+
+2   https://www.annauniv.edu/   06-12-2024 12:05:35 pm     PASS           Test Cases/Anna university/acodamic
+
+																		Elapsed time: 32.194s Test Cases/Anna university/acodamic
+
+3   https://www.annauniv.edu/   
